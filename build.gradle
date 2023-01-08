@@ -1,0 +1,32 @@
+plugins {
+    id 'java'
+}
+
+group 'net.lendarium.ojvzinn'
+version '1.0'
+
+repositories {
+    mavenCentral()
+
+    //Repositório Spigot
+    maven {
+        url 'https://repo.codemc.org/repository/nms/'
+    }
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.2'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.2'
+    compileOnly 'org.spigotmc:spigot:1.8.8-R0.1-SNAPSHOT'
+    implementation files('C:/Dependencias/lendarium-chestshop-1.0-SNAPSHOT.jar')
+}
+
+test {
+    useJUnitPlatform()
+}
+
+compileJava.options.encoding = 'UTF-8'
+
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}

@@ -1,0 +1,6 @@
+missions:
+  message:
+    isCompleted: '§aYay! Você completou com sucesso a missão "{mission_completed}"!'
+    sound:
+      use: true
+      sound: 'LEVEL_UP:1;1'

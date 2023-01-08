@@ -1,0 +1,473 @@
+missions: # Sim, é possível criar diversas missões
+  quebrar_blocos:
+    id: 1
+    mission: '1' # ID correspondente
+    value: '10 : GRASS' # Quantia que a tarefa deve ser executada para completar a missão
+    name: 'Quebrar 50 Blocos de Grama' # Nome da missão
+    reward: '50 coins' # Recompensa da missão
+    icon: 'WOOD_PICKAXE:0 : 1 : nome>&aQuebre 50 Blocos : desc>&7Quebre &850 &7blocos de grama;;&7e ganha 50 de coins!{desc}' # Item que comrresponderá a esta missão
+    command: 'tell {player} oi, isso funciona!' # Comando que será executado após a missão ser concluida
+  quebrar_blocos2:
+    id: 2
+    mission: '1' # ID correspondente
+    value: '10 : GRASS' # Quantia que a tarefa deve ser executada para completar a missão
+    name: 'Quebrar 50 Blocos de Grama' # Nome da missão
+    reward: '50 coins' # Recompensa da missão
+    icon: 'WOOD_PICKAXE:0 : 1 : nome>&aQuebre 50 Blocos : desc>&7Quebre &850 &7blocos de grama;;&7e ganha 50 de coins!{desc}' # Item que comrresponderá a esta missão
+    command: 'tell {player} oi, isso funciona!' # Comando que será executado após a missão ser concluida
+  quebrar_bloco3:
+    id: 3
+    mission: '1' # ID correspondente
+    value: '10 : GRASS' # Quantia que a tarefa deve ser executada para completar a missão
+    name: 'Quebrar 50 Blocos de Grama' # Nome da missão
+    reward: '50 coins' # Recompensa da missão
+    icon: 'WOOD_PICKAXE:0 : 1 : nome>&aQuebre 50 Blocos : desc>&7Quebre &850 &7blocos de grama;;&7e ganha 50 de coins!{desc}' # Item que comrresponderá a esta missão
+    command: 'tell {player} oi, isso funciona!' # Comando que será executado após a missão ser concluida
+  quebrar_blocos4:
+    id: 4
+    mission: '1' # ID correspondente
+    value: '10 : GRASS' # Quantia que a tarefa deve ser executada para completar a missão
+    name: 'Quebrar 50 Blocos de Grama' # Nome da missão
+    reward: '50 coins' # Recompensa da missão
+    icon: 'STONE_PICKAXE:0 : 1 : nome>&aQuebre 50 Blocos : desc>&7Quebre &850 &7blocos de grama;;&7e ganha 50 de coins!{desc}' # Item que comrresponderá a esta missão
+    command: 'tell {player} oi, isso funciona!' # Comando que será executado após a missão ser concluida
+  quebrar_blocos6:
+    id: 5
+    mission: '1' # ID correspondente
+    value: '10 : GRASS' # Quantia que a tarefa deve ser executada para completar a missão
+    name: 'Quebrar 50 Blocos de Grama' # Nome da missão
+    reward: '50 coins' # Recompensa da missão
+    icon: 'STONE_PICKAXE:0 : 1 : nome>&aQuebre 50 Blocos : desc>&7Quebre &850 &7blocos de grama;;&7e ganha 50 de coins!{desc}' # Item que comrresponderá a esta missão
+    command: 'tell {player} oi, isso funciona!' # Comando que será executado após a missão ser concluida
+  quebrar_blocos5:
+    id: 6
+    mission: '1' # ID correspondente
+    value: '10 : GRASS' # Quantia que a tarefa deve ser executada para completar a missão
+    name: 'Quebrar 50 Blocos de Grama' # Nome da missão
+    reward: '50 coins' # Recompensa da missão
+    icon: 'STONE_PICKAXE:0 : 1 : nome>&aQuebre 50 Blocos : desc>&7Quebre &850 &7blocos de grama;;&7e ganha 50 de coins!{desc}' # Item que comrresponderá a esta missão
+    command: 'tell {player} oi, isso funciona!' # Comando que será executado após a missão ser concluida
+  quebrar_blocos12:
+    id: 7
+    mission: '1' # ID correspondente
+    value: '10 : GRASS' # Quantia que a tarefa deve ser executada para completar a missão
+    name: 'Quebrar 50 Blocos de Grama' # Nome da missão
+    reward: '50 coins' # Recompensa da missão
+    icon: 'STONE_PICKAXE:0 : 1 : nome>&aQuebre 50 Blocos : desc>&7Quebre &850 &7blocos de grama;;&7e ganha 50 de coins!{desc}' # Item que comrresponderá a esta missão
+    command: 'tell {player} oi, isso funciona!' # Comando que será executado após a missão ser concluida
+  quebrar_blocos13:
+    id: 8
+    mission: '1' # ID correspondente
+    value: '10 : GRASS' # Quantia que a tarefa deve ser executada para completar a missão
+    name: 'Quebrar 50 Blocos de Grama' # Nome da missão
+    reward: '50 coins' # Recompensa da missão
+    icon: 'IRON_PICKAXE:0 : 1 : nome>&aQuebre 50 Blocos : desc>&7Quebre &850 &7blocos de grama;;&7e ganha 50 de coins!{desc}' # Item que comrresponderá a esta missão
+    command: 'tell {player} oi, isso funciona!' # Comando que será executado após a missão ser concluida
+  quebrar_blocos14:
+    id: 9
+    mission: '1' # ID correspondente
+    value: '10 : GRASS' # Quantia que a tarefa deve ser executada para completar a missão
+    name: 'Quebrar 50 Blocos de Grama' # Nome da missão
+    reward: '50 coins' # Recompensa da missão
+    icon: 'IRON_PICKAXE:0 : 1 : nome>&aQuebre 50 Blocos : desc>&7Quebre &850 &7blocos de grama;;&7e ganha 50 de coins!{desc}' # Item que comrresponderá a esta missão
+    command: 'tell {player} oi, isso funciona!' # Comando que será executado após a missão ser concluida
+  quebrar_blocos15:
+    id: 10
+    mission: '1' # ID correspondente
+    value: '10 : GRASS' # Quantia que a tarefa deve ser executada para completar a missão
+    name: 'Quebrar 50 Blocos de Grama' # Nome da missão
+    reward: '50 coins' # Recompensa da missão
+    icon: 'GOLD_PICKAXE:0 : 1 : nome>&aQuebre 50 Blocos : desc>&7Quebre &850 &7blocos de grama;;&7e ganha 50 de coins!{desc}' # Item que comrresponderá a esta missão
+    command: 'tell {player} oi, isso funciona!' # Comando que será executado após a missão ser concluida
+  quebrar_blocos16:
+    id: 11
+    mission: '1' # ID correspondente
+    value: '10 : GRASS' # Quantia que a tarefa deve ser executada para completar a missão
+    name: 'Quebrar 50 Blocos de Grama' # Nome da missão
+    reward: '50 coins' # Recompensa da missão
+    icon: 'GOLD_PICKAXE:0 : 1 : nome>&aQuebre 50 Blocos : desc>&7Quebre &850 &7blocos de grama;;&7e ganha 50 de coins!{desc}' # Item que comrresponderá a esta missão
+    command: 'tell {player} oi, isso funciona!' # Comando que será executado após a missão ser concluida
+  quebrar_blocos17:
+    id: 12
+    mission: '1' # ID correspondente
+    value: '10 : GRASS' # Quantia que a tarefa deve ser executada para completar a missão
+    name: 'Quebrar 50 Blocos de Grama' # Nome da missão
+    reward: '50 coins' # Recompensa da missão
+    icon: 'DIAMOND_PICKAXE:0 : 1 : nome>&aQuebre 50 Blocos : desc>&7Quebre &850 &7blocos de grama;;&7e ganha 50 de coins!{desc}' # Item que comrresponderá a esta missão
+    command: 'tell {player} oi, isso funciona!' # Comando que será executado após a missão ser concluida
+  andar_blocos18:
+    id: 13
+    mission: '3'
+    value: '500'
+    name: 'Andar 500 blocos'
+    reward: '50 coins'
+    icon: 'LEATHER_BOOTS:0 : 1 : nome>&aAnde 500 blocos : desc>&7Ande &8500 &7blocos pelo mapa;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  andar_blocos19:
+    id: 14
+    mission: '3'
+    value: '500'
+    name: 'Andar 500 blocos'
+    reward: '50 coins'
+    icon: 'LEATHER_BOOTS:0 : 1 : nome>&aAnde 500 blocos : desc>&7Ande &8500 &7blocos pelo mapa;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  andar_blocos20:
+    id: 15
+    mission: '3'
+    value: '500'
+    name: 'Andar 500 blocos'
+    reward: '50 coins'
+    icon: 'LEATHER_BOOTS:0 : 1 : nome>&aAnde 500 blocos : desc>&7Ande &8500 &7blocos pelo mapa;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  andar_blocos21:
+    id: 16
+    mission: '3'
+    value: '500'
+    name: 'Andar 500 blocos'
+    reward: '50 coins'
+    icon: 'LEATHER_BOOTS:0 : 1 : nome>&aAnde 500 blocos : desc>&7Ande &8500 &7blocos pelo mapa;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  andar_blocos22:
+    id: 17
+    mission: '3'
+    value: '500'
+    name: 'Andar 500 blocos'
+    reward: '50 coins'
+    icon: 'LEATHER_BOOTS:0 : 1 : nome>&aAnde 500 blocos : desc>&7Ande &8500 &7blocos pelo mapa;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  andar_blocos23:
+    id: 18
+    mission: '3'
+    value: '500'
+    name: 'Andar 500 blocos'
+    reward: '50 coins'
+    icon: 'IRON_BOOTS:0 : 1 : nome>&aAnde 500 blocos : desc>&7Ande &8500 &7blocos pelo mapa;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  andar_blocos24:
+    id: 19
+    mission: '3'
+    value: '500'
+    name: 'Andar 500 blocos'
+    reward: '50 coins'
+    icon: 'IRON_BOOTS:0 : 1 : nome>&aAnde 500 blocos : desc>&7Ande &8500 &7blocos pelo mapa;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  andar_blocos25:
+    id: 20
+    mission: '3'
+    value: '500'
+    name: 'Andar 500 blocos'
+    reward: '50 coins'
+    icon: 'IRON_BOOTS:0 : 1 : nome>&aAnde 500 blocos : desc>&7Ande &8500 &7blocos pelo mapa;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  andar_blocos26:
+    id: 21
+    mission: '3'
+    value: '500'
+    name: 'Andar 500 blocos'
+    reward: '50 coins'
+    icon: 'CHAINMAIL_BOOTS:0 : 1 : nome>&aAnde 500 blocos : desc>&7Ande &8500 &7blocos pelo mapa;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  andar_blocos27:
+    id: 22
+    mission: '3'
+    value: '500'
+    name: 'Andar 500 blocos'
+    reward: '50 coins'
+    icon: 'CHAINMAIL_BOOTS:0 : 1 : nome>&aAnde 500 blocos : desc>&7Ande &8500 &7blocos pelo mapa;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  andar_blocos28:
+    id: 23
+    mission: '3'
+    value: '500'
+    name: 'Andar 500 blocos'
+    reward: '50 coins'
+    icon: 'GOLD_BOOTS:0 : 1 : nome>&aAnde 500 blocos : desc>&7Ande &8500 &7blocos pelo mapa;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  andar_blocos29:
+    id: 24
+    mission: '3'
+    value: '500'
+    name: 'Andar 500 blocos'
+    reward: '50 coins'
+    icon: 'GOLD_BOOTS:0 : 1 : nome>&aAnde 500 blocos : desc>&7Ande &8500 &7blocos pelo mapa;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  andar_blocos20:
+    id: 25
+    mission: '3'
+    value: '500'
+    name: 'Andar 500 blocos'
+    reward: '50 coins'
+    icon: 'GOLD_BOOTS:0 : 1 : nome>&aAnde 500 blocos : desc>&7Ande &8500 &7blocos pelo mapa;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  andar_blocos30:
+    id: 26
+    mission: '3'
+    value: '500'
+    name: 'Andar 500 blocos'
+    reward: '50 coins'
+    icon: 'DIAMOND_BOOTS:0 : 1 : nome>&aAnde 500 blocos : desc>&7Ande &8500 &7blocos pelo mapa;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  construir_blocos31:
+    id: 27
+    mission: '4'
+    value: '10'
+    name: 'Construa 100 blocos'
+    reward: '50 coins'
+    icon: 'STONE:0 : 1 : nome>&aConstrua 100 blocos : desc>&7Construa &8100 &7blocos pelo mapa;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  construir_blocos32:
+    id: 28
+    mission: '4'
+    value: '10'
+    name: 'Construa 100 blocos'
+    reward: '50 coins'
+    icon: 'STONE:0 : 1 : nome>&aConstrua 100 blocos : desc>&7Construa &8100 &7blocos pelo mapa;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  construir_blocos33:
+    id: 29
+    mission: '4'
+    value: '10'
+    name: 'Construa 100 blocos'
+    reward: '50 coins'
+    icon: 'WOOD:0 : 1 : nome>&aConstrua 100 blocos : desc>&7Construa &8100 &7blocos pelo mapa;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  construir_blocos34:
+    id: 30
+    mission: '4'
+    value: '10'
+    name: 'Construa 100 blocos'
+    reward: '50 coins'
+    icon: 'LOG:0 : 1 : nome>&aConstrua 100 blocos : desc>&7Construa &8100 &7blocos pelo mapa;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  construir_blocos35:
+    id: 31
+    mission: '4'
+    value: '10'
+    name: 'Construa 100 blocos'
+    reward: '50 coins'
+    icon: 'LOG:0 : 1 : nome>&aConstrua 100 blocos : desc>&7Construa &8100 &7blocos pelo mapa;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  construir_blocos36:
+    id: 32
+    mission: '4'
+    value: '10'
+    name: 'Construa 100 blocos'
+    reward: '50 coins'
+    icon: 'DIRT:0 : 1 : nome>&aConstrua 100 blocos : desc>&7Construa &8100 &7blocos pelo mapa;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  construir_blocos37:
+    id: 33
+    mission: '4'
+    value: '10'
+    name: 'Construa 100 blocos'
+    reward: '50 coins'
+    icon: 'DIRT:0 : 1 : nome>&aConstrua 100 blocos : desc>&7Construa &8100 &7blocos pelo mapa;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  construir_blocos38:
+    id: 34
+    mission: '4'
+    value: '10'
+    name: 'Construa 100 blocos'
+    reward: '50 coins'
+    icon: 'DIRT:0 : 1 : nome>&aConstrua 100 blocos : desc>&7Construa &8100 &7blocos pelo mapa;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  construir_blocos39:
+    id: 35
+    mission: '4'
+    value: '10'
+    name: 'Construa 100 blocos'
+    reward: '50 coins'
+    icon: 'SAND:0 : 1 : nome>&aConstrua 100 blocos : desc>&7Construa &8100 &7blocos pelo mapa;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  construir_blocos40:
+    id: 36
+    mission: '4'
+    value: '10'
+    name: 'Construa 100 blocos'
+    reward: '50 coins'
+    icon: 'SAND:0 : 1 : nome>&aConstrua 100 blocos : desc>&7Construa &8100 &7blocos pelo mapa;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  construir_blocos41:
+    id: 37
+    mission: '4'
+    value: '10'
+    name: 'Construa 100 blocos'
+    reward: '50 coins'
+    icon: 'SAND:0 : 1 : nome>&aConstrua 100 blocos : desc>&7Construa &8100 &7blocos pelo mapa;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  construir_blocos42:
+    id: 38
+    mission: '4'
+    value: '10'
+    name: 'Construa 100 blocos'
+    reward: '50 coins'
+    icon: 'SAND:0 : 1 : nome>&aConstrua 100 blocos : desc>&7Construa &8100 &7blocos pelo mapa;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  vender_minerios43:
+    id: 39
+    mission: '5'
+    value: '10'
+    name: 'Venda 10 minérios de ferros'
+    reward: '50 coins'
+    icon: 'COAL:0 : 1 : nome>&aVenda 10 minérios : desc>&7Venda &810 &7minérios de ferro;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  vender_minerios44:
+    id: 40
+    mission: '5'
+    value: '10'
+    name: 'Venda 10 minérios de ferros'
+    reward: '50 coins'
+    icon: 'COAL:0 : 1 : nome>&aVenda 10 minérios : desc>&7Venda &810 &7minérios de ferro;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  vender_minerios45:
+    id: 41
+    mission: '5'
+    value: '10'
+    name: 'Venda 10 minérios de ferros'
+    reward: '50 coins'
+    icon: 'COAL:0 : 1 : nome>&aVenda 10 minérios : desc>&7Venda &810 &7minérios de ferro;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  vender_minerios46:
+    id: 42
+    mission: '5'
+    value: '10'
+    name: 'Venda 10 minérios de ferros'
+    reward: '50 coins'
+    icon: 'REDSTONE:0 : 1 : nome>&aVenda 10 minérios : desc>&7Venda &810 &7minérios de ferro;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  vender_minerios47:
+    id: 43
+    mission: '5'
+    value: '10'
+    name: 'Venda 10 minérios de ferros'
+    reward: '50 coins'
+    icon: 'REDSTONE:0 : 1 : nome>&aVenda 10 minérios : desc>&7Venda &810 &7minérios de ferro;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  vender_minerios48:
+    id: 44
+    mission: '5'
+    value: '10'
+    name: 'Venda 10 minérios de ferros'
+    reward: '50 coins'
+    icon: 'INK_SACK:4 : 1 : nome>&aVenda 10 minérios : desc>&7Venda &810 &7minérios de ferro;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  vender_minerios49:
+    id: 45
+    mission: '5'
+    value: '10'
+    name: 'Venda 10 minérios de ferros'
+    reward: '50 coins'
+    icon: 'INK_SACK:4 : 1 : nome>&aVenda 10 minérios : desc>&7Venda &810 &7minérios de ferro;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  vender_minerios50:
+    id: 46
+    mission: '5'
+    value: '10'
+    name: 'Venda 10 minérios de ferros'
+    reward: '50 coins'
+    icon: 'IRON_INGOT:0 : 1 : nome>&aVenda 10 minérios : desc>&7Venda &810 &7minérios de ferro;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  vender_minerios52:
+    id: 47
+    mission: '5'
+    value: '10'
+    name: 'Venda 10 minérios de ferros'
+    reward: '50 coins'
+    icon: 'IRON_INGOT:0 : 1 : nome>&aVenda 10 minérios : desc>&7Venda &810 &7minérios de ferro;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  vender_minerios53:
+    id: 48
+    mission: '5'
+    value: '10'
+    name: 'Venda 10 minérios de ferros'
+    reward: '50 coins'
+    icon: 'IRON_INGOT:0 : 1 : nome>&aVenda 10 minérios : desc>&7Venda &810 &7minérios de ferro;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  vender_minerios54:
+    id: 49
+    mission: '5'
+    value: '10'
+    name: 'Venda 10 minérios de ferros'
+    reward: '50 coins'
+    icon: 'GOLD_INGOT:0 : 1 : nome>&aVenda 10 minérios : desc>&7Venda &810 &7minérios de ferro;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  vender_minerios55:
+    id: 50
+    mission: '5'
+    value: '10'
+    name: 'Venda 10 minérios de ferros'
+    reward: '50 coins'
+    icon: 'GOLD_INGOT:0 : 1 : nome>&aVenda 10 minérios : desc>&7Venda &810 &7minérios de ferro;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  vender_minerios56:
+    id: 51
+    mission: '5'
+    value: '10'
+    name: 'Venda 10 minérios de ferros'
+    reward: '50 coins'
+    icon: 'GOLD_INGOT:0 : 1 : nome>&aVenda 10 minérios : desc>&7Venda &810 &7minérios de ferro;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  vender_minerios57:
+    id: 52
+    mission: '5'
+    value: '10'
+    name: 'Venda 10 minérios de ferros'
+    reward: '50 coins'
+    icon: 'DIAMOND:0 : 1 : nome>&aVenda 10 minérios : desc>&7Venda &810 &7minérios de ferro;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  vender_minerios58:
+    id: 53
+    mission: '5'
+    value: '10'
+    name: 'Venda 10 minérios de ferros'
+    reward: '50 coins'
+    icon: 'DIAMOND:0 : 1 : nome>&aVenda 10 minérios : desc>&7Venda &810 &7minérios de ferro;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  vender_minerios69:
+    id: 54
+    mission: '5'
+    value: '10'
+    name: 'Venda 10 minérios de ferros'
+    reward: '50 coins'
+    icon: 'DIAMOND:0 : 1 : nome>&aVenda 10 minérios : desc>&7Venda &810 &7minérios de ferro;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  vender_minerios70:
+    id: 55
+    mission: '5'
+    value: '10'
+    name: 'Venda 10 minérios de ferros'
+    reward: '50 coins'
+    icon: 'EMERALD:0 : 1 : nome>&aVenda 10 minérios : desc>&7Venda &810 &7minérios de ferro;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  vender_minerios80:
+    id: 56
+    mission: '5'
+    value: '10'
+    name: 'Venda 10 minérios de ferros'
+    reward: '50 coins'
+    icon: 'EMERALD:0 : 1 : nome>&aVenda 10 minérios : desc>&7Venda &810 &7minérios de ferro;;&7e ganha 50 de coins!{desc}'
+    command: 'tell {player} oi, isso funciona!'
+  metar_monstros32:
+    id: 57
+    mission: '6'
+    value: '300 : CHICKEN'
+    name: 'Mate 5 zumbis'
+    reward: '50 coins'
+    icon: '397:3 : 1 : nome>&aElimine 5 mobs : desc>&7Elimine &85 &7zumbis;;&7e ganha 50 de coins!{desc} : dono>Chicken'
+    command: 'tell {player} oi, isso funciona!'
+  metar_monstros12:
+    id: 58
+    mission: '6'
+    value: '800 : CHICKEN'
+    name: 'Mate 5 zumbis'
+    reward: '50 coins'
+    icon: '397:3 : 2 : nome>&aElimine 5 mobs : desc>&7Elimine &85 &7zumbis;;&7e ganha 50 de coins!{desc} : dono>Chicken'
+    command: 'tell {player} oi, isso funciona!'
+  metar_monstros22:
+    id: 59
+    mission: '6'
+    value: '2000 : CHICKEN'
+    name: 'Mate 5 zumbis'
+    reward: '50 coins'
+    icon: '397:3 : 3 : nome>&aElimine 5 mobs : desc>&7Elimine &85 &7zumbis;;&7e ganha 50 de coins!{desc} : dono>Chicken'
+    command: 'tell {player} oi, isso funciona!'
